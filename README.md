@@ -1,6 +1,6 @@
 ### Hi there 👋 
-### My name is Satvik, I am an undergraduate student in India.
-### I am currently learning Javascript and ReactJS.
+### My name is Satvik, I am an undergrad in India.
+### Working on many ideas 👀
 
 <!--
 **Satvik-bot/Satvik-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
