@@ -2,8 +2,11 @@
 ## My name is Satvik Sagar Sharma, working as a Software Engineer at Airbus.
 Experience in building full-stack applications using MERN, AWS, and building CI/CD pipelines with Jenkins automation. In my time at Airbus, I have dived deep into creating system applications using C++ and Python with multi-platform support RHEL7 & Windows.
 
+🚀 Check out my Portfolio  [Link](https://stvk-dev.vercel.app/)  
+
 ## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/satvik-sagar-sharma-861b63194) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%231877F2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/satvik-sagar-sharma-861b63194) [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/BillingCin3873)  
+
 
 # 💻 Tech Stack
 
