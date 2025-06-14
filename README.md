@@ -1,5 +1,5 @@
 ## Hi there 👋
-## My name is Satvik Sagar Sharma, working as a Software Engineer at Airbus.
+## My name is Satvik, working as a Software Engineer at Airbus.
 Experience in building full-stack applications using MERN, AWS, and building CI/CD pipelines with Jenkins automation. In my time at Airbus, I have dived deep into creating system applications using C++ and Python with multi-platform support RHEL7 & Windows.
 
 🚀 Check out my Portfolio  [Link](https://stvk-dev.vercel.app/)  
